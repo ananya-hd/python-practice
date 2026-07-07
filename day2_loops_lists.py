@@ -40,6 +40,6 @@ print("Average marks:", average)
 num = [89,90,100,90,109,121]
 max = num[0]
 for i in num:
-    if i > max:
+    if max < i:
         max = i
 print("Maximum number :",max)
