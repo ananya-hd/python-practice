@@ -11,3 +11,10 @@ This repository contains my Python practice programs.
 
 ## Goal
 I am learning Python for DSA, AIML, GitHub projects, internships, and placements.
+
+### Day 2 - Loops and Lists
+- Printed numbers using for loop
+- Printed even numbers
+- Practiced list indexing
+- Found total and average marks
+- Found maximum number in a list
