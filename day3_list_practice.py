@@ -16,15 +16,6 @@ for i in list:
 print("Total:",sum)
 
 
-#Find maximum number
-list = [44,82,67,22,97,94,16,35]
-max = list[0]
-for i in list:
-    if max < i:
-        max = i 
-print("Maximun number is:",max)
-
-
 #Find minimum number
 list = [44,82,67,22,97,94,16,35]
 min = list[0]
