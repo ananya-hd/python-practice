@@ -18,3 +18,11 @@ I am learning Python for DSA, AIML, GitHub projects, internships, and placements
 - Practiced list indexing
 - Found total and average marks
 - Found maximum number in a list
+
+### Day 3 - List Practice and DSA Basics
+- Printed list elements
+- Found sum of list elements
+- Found maximum number
+- Found minimum number
+- Counted even numbers
+- Practiced linear search
