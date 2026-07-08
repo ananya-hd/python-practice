@@ -33,9 +33,9 @@ for i in num:
         count+= 1
 print("Even number count is :",count)
 
+
 #Search a number in a list
 n = [10, 20, 30, 40, 50]
-
 num = int(input("Enter the number to search: "))
 found = False
 for i in n:
