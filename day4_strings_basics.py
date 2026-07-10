@@ -12,6 +12,7 @@ word = input("Enter a word: ")
 for ch in word:
     print(ch)
 
+
 #Count vowels in a word
 word = input("Enter a word: ")
 vowel_count = 0
