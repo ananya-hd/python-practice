@@ -6,12 +6,10 @@ print("Second character:",name[2])
 print("Last character:",name[-1])
 print("Length of string:",len(name))
 
-
 #Print each character in a word
 word = input("Enter a word: ")
 for ch in word:
     print(ch)
-
 
 #Count vowels in a word
 word = input("Enter a word: ")
