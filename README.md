@@ -26,3 +26,10 @@ I am learning Python for DSA, AIML, GitHub projects, internships, and placements
 - Found minimum number
 - Counted even numbers
 - Practiced linear search
+
+### Day 4 - Strings Basics
+- Practiced string indexing
+- Accessed first, second, and last characters
+- Used len() to find string length
+- Printed each character using for loop
+- Counted vowels in a word
